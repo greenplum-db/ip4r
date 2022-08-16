@@ -1,5 +1,3 @@
-NO_PGXS := 1
-
 MODULE_big = ip4r
 
 ifndef NO_EXTENSION
